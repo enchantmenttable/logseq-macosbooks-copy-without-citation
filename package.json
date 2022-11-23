@@ -1,0 +1,13 @@
+{
+  "name": "logseq-plugin-macosbooks-copy-without-citation",
+  "version": "0.1",
+  "description": "Remove the 'Excerpt From' part when copy from macOS Books",
+  "main": "index.html",
+  "author": "enchantmenttable",
+  "logseq": {
+    "title": "Copy from macOS Books without citation",
+    "icon": "logo.png",
+    "id": "_39lf2ciwv"
+  },
+  "license": "MIT"
+}
