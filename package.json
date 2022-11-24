@@ -11,6 +11,12 @@
   },
   "license": "MIT",
   "scripts": {
-    "build": "webpack"
+    "build": "parcel build --no-source-maps index.html --public-url ./"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
   }
 }
