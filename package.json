@@ -9,5 +9,8 @@
     "icon": "icon.png",
     "id": "_39lf2ciwv"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  }
 }
