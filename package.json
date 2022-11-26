@@ -3,16 +3,19 @@
   "version": "0.2",
   "description": "Remove the 'Excerpt From' part when copy from macOS Books",
   "main": "index.html",
-  "author": "enchantmenttable",
-  "logseq": {
-    "title": "Copy from macOS Books without citation",
-    "icon": "icon.png",
-    "id": "_39lf2ciwv"
+  "targets": {
+    "main": false
   },
-  "license": "MIT",
   "scripts": {
     "build": "parcel build --no-source-maps index.html --public-url ./"
   },
+  "author": "enchantmenttable",
+  "logseq": {
+    "title": "Copy from macOS Books without citation",
+    "icon": "./icon.png",
+    "id": "_39lf2ciwv"
+  },
+  "license": "MIT",
   "devDependencies": {
     "parcel": "^2.0.0"
   },
