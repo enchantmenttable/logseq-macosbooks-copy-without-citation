@@ -3,4 +3,4 @@ A Logseq plugin that lets you copy content from macOS Books to Logseq without th
 
 # Demo
 
-![Uploading 203482258-f91c275f-d6c3-4172-89a4-f9f11703a5e7_AdobeExpress.gif…]()
+![f](https://user-images.githubusercontent.com/59225760/204137237-3b35cca9-c0df-4fd5-9381-7693f2d1ac30.gif)
