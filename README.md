@@ -1,5 +1,5 @@
 # logseq-macosbooks-copy-without-citation
-A Logseq plugin that lets you copy content from macOS Books to Logseq without the "Excerpt From..." part.
+When you copy some text from macOS Book to Logseq, the plugin will automatically remove the "Excerpt From..." part.
 
 # Demo
 
